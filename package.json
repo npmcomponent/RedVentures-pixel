@@ -1,0 +1,14 @@
+{
+  "name": "redventures-pixel",
+  "description": "magical pixel dust",
+  "version": "0.0.1",
+  "keywords": [
+    "component",
+    "pixels"
+  ],
+  "dependencies": {
+    "component-querystring": "git://github.com/npmcomponent/component-querystring.git",
+    "component-inherit": "git://github.com/npmcomponent/component-inherit.git"
+  },
+  "license": "Apache Version 2.0"
+}
